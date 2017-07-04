@@ -1,0 +1,111 @@
+﻿income range (group),Measure Names,Term Address Category-revised (group),Measure Values,Number of Records
+" $0 - < $80,000",N,Simmons Hall,93,93
+" $0 - < $80,000",N,Senior House,43,43
+" $0 - < $80,000",N,Random Hall,33,33
+" $0 - < $80,000",N,New West Campus Houses,75,75
+" $0 - < $80,000",N,McCormick Hall,65,65
+" $0 - < $80,000",N,Maseeh Hall,112,112
+" $0 - < $80,000",N,MacGregor House,87,87
+" $0 - < $80,000",N,East Campus,92,92
+" $0 - < $80,000",N,Burton House,67,67
+" $0 - < $80,000",N,Baker House,63,63
+" $0 - < $80,000",N,500 Memorial Drive,86,86
+" $0 - < $80,000",%,Simmons Hall,0.273529412,93
+" $0 - < $80,000",%,Senior House,0.309352518,43
+" $0 - < $80,000",%,Random Hall,0.354838710,33
+" $0 - < $80,000",%,New West Campus Houses,0.313807531,75
+" $0 - < $80,000",%,McCormick Hall,0.278969957,65
+" $0 - < $80,000",%,Maseeh Hall,0.232848233,112
+" $0 - < $80,000",%,MacGregor House,0.281553398,87
+" $0 - < $80,000",%,East Campus,0.248648649,92
+" $0 - < $80,000",%,Burton House,0.186111111,67
+" $0 - < $80,000",%,Baker House,0.205882353,63
+" $0 - < $80,000",%,500 Memorial Drive,0.232432432,86
+"$80,000 - < $150,000,  ",N,Simmons Hall,76,76
+"$80,000 - < $150,000,  ",N,Senior House,29,29
+"$80,000 - < $150,000,  ",N,Random Hall,20,20
+"$80,000 - < $150,000,  ",N,New West Campus Houses,47,47
+"$80,000 - < $150,000,  ",N,McCormick Hall,42,42
+"$80,000 - < $150,000,  ",N,Maseeh Hall,76,76
+"$80,000 - < $150,000,  ",N,MacGregor House,66,66
+"$80,000 - < $150,000,  ",N,East Campus,68,68
+"$80,000 - < $150,000,  ",N,Burton House,47,47
+"$80,000 - < $150,000,  ",N,Baker House,59,59
+"$80,000 - < $150,000,  ",N,500 Memorial Drive,81,81
+"$80,000 - < $150,000,  ",%,Simmons Hall,0.223529412,76
+"$80,000 - < $150,000,  ",%,Senior House,0.208633094,29
+"$80,000 - < $150,000,  ",%,Random Hall,0.215053763,20
+"$80,000 - < $150,000,  ",%,New West Campus Houses,0.196652720,47
+"$80,000 - < $150,000,  ",%,McCormick Hall,0.180257511,42
+"$80,000 - < $150,000,  ",%,Maseeh Hall,0.158004158,76
+"$80,000 - < $150,000,  ",%,MacGregor House,0.213592233,66
+"$80,000 - < $150,000,  ",%,East Campus,0.183783784,68
+"$80,000 - < $150,000,  ",%,Burton House,0.130555556,47
+"$80,000 - < $150,000,  ",%,Baker House,0.192810458,59
+"$80,000 - < $150,000,  ",%,500 Memorial Drive,0.218918919,81
+" $150,000 - < $200,000",N,Simmons Hall,47,47
+" $150,000 - < $200,000",N,Senior House,12,12
+" $150,000 - < $200,000",N,Random Hall,7,7
+" $150,000 - < $200,000",N,New West Campus Houses,24,24
+" $150,000 - < $200,000",N,McCormick Hall,24,24
+" $150,000 - < $200,000",N,Maseeh Hall,49,49
+" $150,000 - < $200,000",N,MacGregor House,29,29
+" $150,000 - < $200,000",N,East Campus,43,43
+" $150,000 - < $200,000",N,Burton House,36,36
+" $150,000 - < $200,000",N,Baker House,25,25
+" $150,000 - < $200,000",N,500 Memorial Drive,34,34
+" $150,000 - < $200,000",%,Simmons Hall,0.138235294,47
+" $150,000 - < $200,000",%,Senior House,0.086330935,12
+" $150,000 - < $200,000",%,Random Hall,0.075268817,7
+" $150,000 - < $200,000",%,New West Campus Houses,0.100418410,24
+" $150,000 - < $200,000",%,McCormick Hall,0.103004292,24
+" $150,000 - < $200,000",%,Maseeh Hall,0.101871102,49
+" $150,000 - < $200,000",%,MacGregor House,0.093851133,29
+" $150,000 - < $200,000",%,East Campus,0.116216216,43
+" $150,000 - < $200,000",%,Burton House,0.1,36
+" $150,000 - < $200,000",%,Baker House,0.081699346,25
+" $150,000 - < $200,000",%,500 Memorial Drive,0.091891892,34
+" $200,000 and over",N,Simmons Hall,35,35
+" $200,000 and over",N,Senior House,18,18
+" $200,000 and over",N,Random Hall,7,7
+" $200,000 and over",N,New West Campus Houses,28,28
+" $200,000 and over",N,McCormick Hall,32,32
+" $200,000 and over",N,Maseeh Hall,81,81
+" $200,000 and over",N,MacGregor House,37,37
+" $200,000 and over",N,East Campus,44,44
+" $200,000 and over",N,Burton House,66,66
+" $200,000 and over",N,Baker House,52,52
+" $200,000 and over",N,500 Memorial Drive,58,58
+" $200,000 and over",%,Simmons Hall,0.102941176,35
+" $200,000 and over",%,Senior House,0.129496403,18
+" $200,000 and over",%,Random Hall,0.075268817,7
+" $200,000 and over",%,New West Campus Houses,0.117154812,28
+" $200,000 and over",%,McCormick Hall,0.137339056,32
+" $200,000 and over",%,Maseeh Hall,0.168399168,81
+" $200,000 and over",%,MacGregor House,0.119741100,37
+" $200,000 and over",%,East Campus,0.118918919,44
+" $200,000 and over",%,Burton House,0.183333333,66
+" $200,000 and over",%,Baker House,0.169934641,52
+" $200,000 and over",%,500 Memorial Drive,0.156756757,58
+ Unknown Income,N,Simmons Hall,89,89
+ Unknown Income,N,Senior House,37,37
+ Unknown Income,N,Random Hall,26,26
+ Unknown Income,N,New West Campus Houses,65,65
+ Unknown Income,N,McCormick Hall,70,70
+ Unknown Income,N,Maseeh Hall,163,163
+ Unknown Income,N,MacGregor House,90,90
+ Unknown Income,N,East Campus,123,123
+ Unknown Income,N,Burton House,144,144
+ Unknown Income,N,Baker House,107,107
+ Unknown Income,N,500 Memorial Drive,111,111
+ Unknown Income,%,Simmons Hall,0.261764706,89
+ Unknown Income,%,Senior House,0.266187050,37
+ Unknown Income,%,Random Hall,0.279569892,26
+ Unknown Income,%,New West Campus Houses,0.271966527,65
+ Unknown Income,%,McCormick Hall,0.300429185,70
+ Unknown Income,%,Maseeh Hall,0.338877339,163
+ Unknown Income,%,MacGregor House,0.291262136,90
+ Unknown Income,%,East Campus,0.332432432,123
+ Unknown Income,%,Burton House,0.4,144
+ Unknown Income,%,Baker House,0.349673203,107
+ Unknown Income,%,500 Memorial Drive,0.3,111

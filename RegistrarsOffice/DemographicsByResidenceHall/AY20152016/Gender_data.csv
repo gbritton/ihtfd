@@ -1,0 +1,43 @@
+﻿Gender,Measure Names,Term Address Category-revised (group),Measure Values,Number of Records
+Female,N,Simmons Hall,152,152
+Female,N,Senior House,73,73
+Female,N,Random Hall,43,43
+Female,N,New West Campus Houses,113,113
+Female,N,McCormick Hall,233,233
+Female,N,Maseeh Hall,230,230
+Female,N,MacGregor House,123,123
+Female,N,East Campus,187,187
+Female,N,Burton House,209,209
+Female,N,Baker House,129,129
+Female,N,500 Memorial Drive,166,166
+Female,%,Simmons Hall,0.447058824,152
+Female,%,Senior House,0.525179856,73
+Female,%,Random Hall,0.462365591,43
+Female,%,New West Campus Houses,0.472803347,113
+Female,%,McCormick Hall,1,233
+Female,%,Maseeh Hall,0.473251029,230
+Female,%,MacGregor House,0.398058252,123
+Female,%,East Campus,0.505405405,187
+Female,%,Burton House,0.580555556,209
+Female,%,Baker House,0.413461538,129
+Female,%,500 Memorial Drive,0.448648649,166
+Male,N,Simmons Hall,188,188
+Male,N,Senior House,66,66
+Male,N,Random Hall,50,50
+Male,N,New West Campus Houses,126,126
+Male,N,Maseeh Hall,256,256
+Male,N,MacGregor House,186,186
+Male,N,East Campus,183,183
+Male,N,Burton House,151,151
+Male,N,Baker House,183,183
+Male,N,500 Memorial Drive,204,204
+Male,%,Simmons Hall,0.552941176,188
+Male,%,Senior House,0.474820144,66
+Male,%,Random Hall,0.537634409,50
+Male,%,New West Campus Houses,0.527196653,126
+Male,%,Maseeh Hall,0.526748971,256
+Male,%,MacGregor House,0.601941748,186
+Male,%,East Campus,0.494594595,183
+Male,%,Burton House,0.419444444,151
+Male,%,Baker House,0.586538462,183
+Male,%,500 Memorial Drive,0.551351351,204

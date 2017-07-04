@@ -1,0 +1,67 @@
+﻿Ethnicity URM (group),Measure Names,Term Address Category-revised (group),Measure Values,Number of Records
+International (Not US Citizen or Perm. Resident),N,Simmons Hall,25,25
+International (Not US Citizen or Perm. Resident),N,Senior House,11,11
+International (Not US Citizen or Perm. Resident),N,Random Hall,12,12
+International (Not US Citizen or Perm. Resident),N,New West Campus Houses,30,30
+International (Not US Citizen or Perm. Resident),N,McCormick Hall,29,29
+International (Not US Citizen or Perm. Resident),N,Maseeh Hall,54,54
+International (Not US Citizen or Perm. Resident),N,MacGregor House,38,38
+International (Not US Citizen or Perm. Resident),N,East Campus,41,41
+International (Not US Citizen or Perm. Resident),N,Burton House,20,20
+International (Not US Citizen or Perm. Resident),N,Baker House,38,38
+International (Not US Citizen or Perm. Resident),N,500 Memorial Drive,32,32
+International (Not US Citizen or Perm. Resident),%,Simmons Hall,0.073529412,25
+International (Not US Citizen or Perm. Resident),%,Senior House,0.079136691,11
+International (Not US Citizen or Perm. Resident),%,Random Hall,0.129032258,12
+International (Not US Citizen or Perm. Resident),%,New West Campus Houses,0.125523013,30
+International (Not US Citizen or Perm. Resident),%,McCormick Hall,0.124463519,29
+International (Not US Citizen or Perm. Resident),%,Maseeh Hall,0.111111111,54
+International (Not US Citizen or Perm. Resident),%,MacGregor House,0.122977346,38
+International (Not US Citizen or Perm. Resident),%,East Campus,0.110810811,41
+International (Not US Citizen or Perm. Resident),%,Burton House,0.055555556,20
+International (Not US Citizen or Perm. Resident),%,Baker House,0.121794872,38
+International (Not US Citizen or Perm. Resident),%,500 Memorial Drive,0.086486486,32
+Non-URM,N,Simmons Hall,210,210
+Non-URM,N,Senior House,77,77
+Non-URM,N,Random Hall,65,65
+Non-URM,N,New West Campus Houses,105,105
+Non-URM,N,McCormick Hall,157,157
+Non-URM,N,Maseeh Hall,328,328
+Non-URM,N,MacGregor House,187,187
+Non-URM,N,East Campus,258,258
+Non-URM,N,Burton House,265,265
+Non-URM,N,Baker House,224,224
+Non-URM,N,500 Memorial Drive,262,262
+Non-URM,%,Simmons Hall,0.617647059,210
+Non-URM,%,Senior House,0.553956835,77
+Non-URM,%,Random Hall,0.698924731,65
+Non-URM,%,New West Campus Houses,0.439330544,105
+Non-URM,%,McCormick Hall,0.673819742,157
+Non-URM,%,Maseeh Hall,0.674897119,328
+Non-URM,%,MacGregor House,0.605177994,187
+Non-URM,%,East Campus,0.697297297,258
+Non-URM,%,Burton House,0.736111111,265
+Non-URM,%,Baker House,0.717948718,224
+Non-URM,%,500 Memorial Drive,0.708108108,262
+URM,N,Simmons Hall,105,105
+URM,N,Senior House,51,51
+URM,N,Random Hall,16,16
+URM,N,New West Campus Houses,104,104
+URM,N,McCormick Hall,47,47
+URM,N,Maseeh Hall,104,104
+URM,N,MacGregor House,84,84
+URM,N,East Campus,71,71
+URM,N,Burton House,75,75
+URM,N,Baker House,50,50
+URM,N,500 Memorial Drive,76,76
+URM,%,Simmons Hall,0.308823529,105
+URM,%,Senior House,0.366906475,51
+URM,%,Random Hall,0.172043011,16
+URM,%,New West Campus Houses,0.435146444,104
+URM,%,McCormick Hall,0.201716738,47
+URM,%,Maseeh Hall,0.213991770,104
+URM,%,MacGregor House,0.271844660,84
+URM,%,East Campus,0.191891892,71
+URM,%,Burton House,0.208333333,75
+URM,%,Baker House,0.160256410,50
+URM,%,500 Memorial Drive,0.205405405,76
